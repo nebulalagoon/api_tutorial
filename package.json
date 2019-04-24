@@ -1,0 +1,24 @@
+{
+  "name": "api_tutorial",
+  "version": "1.0.0",
+  "description": "following a tutorial for setting up a RESTful API with Node.js and PostgreSQL (link: https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebulalagoon/api_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nebulalagoon/api_tutorial/issues"
+  },
+  "homepage": "https://github.com/nebulalagoon/api_tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.10.0"
+  }
+}
